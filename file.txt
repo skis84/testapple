@@ -1,2 +1,4 @@
-testing
-testing2
+import testing1
+
+import testing1
+import testing2
