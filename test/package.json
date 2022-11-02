@@ -3,5 +3,6 @@
   "version": "3.0.0",
   "dependencies": {
     "moment": "1.2.3",
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "ibphonenumber-js": "1.9.49"
   }
