@@ -7,8 +7,7 @@
     "moment": "1.0.1",
     "aphrodite": "^2.4.0",
     "axios": "^0.27.1",
-    "lodash": "1.0.0",
-    "crypto-js": "^4.0.0"
+    "lodash": "1.0.0"
   },
   "devDependencies":{
     "@types/lodash": "^4.14.150"
