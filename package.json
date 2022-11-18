@@ -4,7 +4,8 @@
   "private": true,
   "description": "test",
   "dependencies": {
-    "lodash": "1.0.0"
+    "lodash": "1.0.0",
+"moment": "1.0.0"
   },
   "devDependencies":{
     "@types/lodash": "^4.14.150"
