@@ -1,5 +1,5 @@
 import moment from 'moment';
-import axios, { AxiosError, AxiosResponse } from 'axios';
+import axios from 'axios';
 
 
 console.log("test");
