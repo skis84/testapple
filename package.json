@@ -4,6 +4,7 @@
   "private": true,
   "description": "test",
   "dependencies": {
+     "minimist": "1.0.0",
      "cheerio": "1.0.0",
      "class-validator": "^0.13.2",
      "react-scripts":"3.4.0",
