@@ -3,9 +3,7 @@
   "version": "3.0.0",
   "private": true,
   "description": "test",
-  "dependencies": {
-   
-    
+  "dependencies": { 
      "minimist": "1.0.0",
      "cheerio": "1.0.0",
      "class-validator": "^0.13.2",
