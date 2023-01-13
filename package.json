@@ -3,16 +3,9 @@
   "version": "3.0.0",
   "private": true,
   "description": "test",
-  "dependencies": { 
-    
-    
-    
-    
-    
-    
-     "minimist": "1.0.0",
-     "cheerio": "1.0.0",
-     "class-validator": "^0.13.2",
+  "dependencies": {
+     "minimist":"1.0.0",
+     "cheerio":"0.0.1",
      "react-scripts":"3.4.0",
      "node-sass": "7.0.0",
      "axios": "1.0.0",
