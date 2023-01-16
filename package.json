@@ -10,8 +10,9 @@
 
 
 
+
      "minimist":"1.0.0",
-      "cheerio":"0.0.1",
+     "cheerio":"0.0.1",
      "react-scripts":"3.4.0",
      "node-sass": "7.0.0",
      "axios": "1.0.0",
